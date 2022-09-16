@@ -1,5 +1,4 @@
 #include <stdio.h>
-int terminou(float retangulo1[]);
 int main (void){
   float retangulo1[4], retangulo2[4];
   scanf("%f %f %f %f", &retangulo1[0], &retangulo1[1], &retangulo1[2], &retangulo1[3]);
